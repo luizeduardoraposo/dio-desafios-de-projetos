@@ -1,6 +1,6 @@
 # Como Fazer Mingau de Aveia Simples
 
-  ![mingau de aveia](imagens\Mingau-com-Farinha-de-Aveia.jpg)
+![mingau de aveia simples](/livro-de-receitas/imagens/Mingau-com-Farinha-de-Aveia.jpg)
 
 ## Lista de Ingredientes
 

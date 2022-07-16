@@ -1,6 +1,6 @@
 # Receita de Salada de Batata Doce
 
-![](imagens\Salada-de-Batata-Doce.jpg)
+![salada de batata doce](/livro-de-receitas/imagens/Salada-de-Batata-Doce.jpg)
 
 ## Ingredientes:
 
