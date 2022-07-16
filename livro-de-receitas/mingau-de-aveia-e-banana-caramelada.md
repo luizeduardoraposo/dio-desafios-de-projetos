@@ -1,6 +1,6 @@
 # Mingau de Aveia e Banana Caramelada
 
-##   ![mingau de aveia](/imagens/mingau-de-aveia-e-banana-caramelada-1.jpeg)
+##   ![mingau de aveia](\imagens\mingau-de-aveia-e-banana-caramelada-1.jpeg)
 
 ## Lista de Ingredientes
 
